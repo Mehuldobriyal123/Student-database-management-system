@@ -8,3 +8,4 @@ Features needed:–
 
 The project’s database should contain general details about the students. For instance their address, name, contact information, year of admission, courses, etc.
 Additionally, essential details such as files of attendance, results, fees, scholarships, and others should also be incorporated.
+
